@@ -1,0 +1,154 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "0c970ea3bcdedcc0abc8f11d83afef3a692121f4bb0af0d47286254a2d228a94",
+      "bytes": 315
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "4ee83ebc51e938462343596b1dd51c194c9138bc61f610201e61723a7fadabb4",
+      "bytes": 722
+    },
+    {
+      "path": "README.md",
+      "sha256": "835d50ad3c5dbfc0def992a3c40664a619c37fb2c3f964e6be51f767c7bb3b04",
+      "bytes": 5073
+    },
+    {
+      "path": "data/public_summary/aurora_holdout_cluster_bootstrap_summary.csv",
+      "sha256": "352e8b535fbc1e9c42ae626db41a06702174874df9e5a155e659fbf43872166d",
+      "bytes": 372
+    },
+    {
+      "path": "data/public_summary/aurora_holdout_pooled_metrics.csv",
+      "sha256": "997516ff8af9ed869efafe9074e5d9e2204086be2cfedcba796f2e7678ede807",
+      "bytes": 252
+    },
+    {
+      "path": "data/public_summary/davison_aoi_metrics_recalculated.csv",
+      "sha256": "04de646ee0ba98bc3b5db92e777591461cbebc041183707cd0b763a13f3e9f03",
+      "bytes": 2420
+    },
+    {
+      "path": "data/public_summary/davison_sealed_pooled_metrics.csv",
+      "sha256": "2d8c14e4dbd7ce79683190b88f9d382eeed31d27ba3c46c81b67195f758d4499",
+      "bytes": 258
+    },
+    {
+      "path": "data/public_summary/sanborn_pooled_metrics.csv",
+      "sha256": "196ab22717c674deb54924918f1e167d5207bc63066e25f4c418d3c4f6dc02e1",
+      "bytes": 253
+    },
+    {
+      "path": "docs/DATA_AVAILABILITY.md",
+      "sha256": "affcda8f955faaa79c9ceabfd7606181d424c6429916029041f52391058f8a1c",
+      "bytes": 1107
+    },
+    {
+      "path": "docs/GITHUB_UPLOAD_STEPS.md",
+      "sha256": "09a9bc3620bfad78b37b38050776eb5448a497b3777e14b2ec956b5c87b5d6b0",
+      "bytes": 974
+    },
+    {
+      "path": "docs/PROVENANCE.json",
+      "sha256": "3d58aa069c741fac8e9d9de5cc3d311a84927367d090ca15996727a619c124f6",
+      "bytes": 453
+    },
+    {
+      "path": "docs/PUBLIC_RELEASE_CHECKLIST.md",
+      "sha256": "f3499dfc59d8b3c97ef5ae4399af27f16ac4911ffc83cb82389fdcce81858c56",
+      "bytes": 829
+    },
+    {
+      "path": "docs/REPRODUCIBILITY_NOTES.md",
+      "sha256": "350849dfe6032aadc48a39fe2f5c1b6503049fc09a29e0bc7a4ee49c384d21c5",
+      "bytes": 1353
+    },
+    {
+      "path": "docs/SANITIZATION_REPORT.txt",
+      "sha256": "ee711679edf59e62d5c3bea9f32479bc4176ab4d1ccff686e0ec02de5e7ecec3",
+      "bytes": 822
+    },
+    {
+      "path": "environment.yml",
+      "sha256": "6cffc066fa5685870c0f759092d0900809a25f598df00690c80b6f6b344077dc",
+      "bytes": 239
+    },
+    {
+      "path": "pyproject.toml",
+      "sha256": "75cd8022868dac088e56c5e9393ff348610c85fc14f2dea2a92b6b56ddf3cbdc",
+      "bytes": 391
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "120eb042d9b3ebd3ad429539742302b9bbdaaa3dce3c88d163f340d46a8e4041",
+      "bytes": 106
+    },
+    {
+      "path": "scripts/generate_davison_figures.py",
+      "sha256": "0485d7b92a9c99528492f8c96b370ba4dbb13f1510c67db92de6c8da449e9b86",
+      "bytes": 1337
+    },
+    {
+      "path": "scripts/recompute_davison_metrics.py",
+      "sha256": "89525b6e1824f03c8c9f87a3029fb87fbb51b9e4752d7e67874ae965c92ae8ea",
+      "bytes": 2124
+    },
+    {
+      "path": "scripts/verify_public_summary.py",
+      "sha256": "5c7a16b1931a9e5d013c2bea1091e1e7516cb310c721d784f469112c2542313b",
+      "bytes": 314
+    },
+    {
+      "path": "src/planetscope_availability/__init__.py",
+      "sha256": "dacc83c107beabbc9fa18a44b892a59bfb21be8808f18647fd59dc8b8d634a81",
+      "bytes": 384
+    },
+    {
+      "path": "src/planetscope_availability/config.py",
+      "sha256": "653d906e37bb927f65483c52cb5750320f1e7577b512e2979d60400eb2f91b8a",
+      "bytes": 1170
+    },
+    {
+      "path": "src/planetscope_availability/date_dropout.py",
+      "sha256": "c81db3fbccdbdc49e59447f601edd53ea813da6fdb3aefb198abe6a597735dd5",
+      "bytes": 1446
+    },
+    {
+      "path": "src/planetscope_availability/metrics.py",
+      "sha256": "5fa5a9cf2f7e5175a71b43ba0386672867c0535b810418774a28fe148cf30a78",
+      "bytes": 1339
+    },
+    {
+      "path": "src/planetscope_availability/plotting.py",
+      "sha256": "aa0f3fcef963905fc391a54da4ea0d1840ad867bc5801a7639525e50555fbc6e",
+      "bytes": 3283
+    },
+    {
+      "path": "src/planetscope_availability/preprocessing.py",
+      "sha256": "3bc546f3e7f760229ae80404b1940fcbcfa2140ef07a7dfbcb54e64faf11dd4a",
+      "bytes": 2563
+    },
+    {
+      "path": "src/planetscope_availability/reference_model.py",
+      "sha256": "ea43f0a434cdaaa9cdcf9ba95f02adf30355d6d794d309fc8430e5c1f5fd1996",
+      "bytes": 2596
+    },
+    {
+      "path": "tests/test_metrics.py",
+      "sha256": "c6ae55bf8eaea84a831b4020e1561f9dee61f2b6f9130663ed41683e62dc12e9",
+      "bytes": 398
+    },
+    {
+      "path": "tests/test_preprocessing.py",
+      "sha256": "15baeed830855910fd8077daf0d6579e852fc08aa830cea11e22e733679e61f1",
+      "bytes": 396
+    },
+    {
+      "path": "tests/test_reference_model.py",
+      "sha256": "50e7d1703ba521135352cc5e3ef54c2f0c65d6ee176bc2c18beb239a91204b8c",
+      "bytes": 265
+    }
+  ]
+}

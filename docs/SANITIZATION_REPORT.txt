@@ -1,0 +1,13 @@
+Sanitization report
+===================
+
+Automated and manual checks performed on the publication companion package:
+
+PASS - No Windows/network project-drive paths were included.
+PASS - No Planet API keys, credentials, access tokens, passwords, or private keys were included.
+PASS - No restricted Parquet prediction tables were included.
+PASS - No PlanetScope imagery, GeoTIFFs, NPZ model-ready arrays, checkpoints, shapefiles, or raw yield data were included.
+PASS - Aggregate metric CSVs only are included under data/public_summary/.
+PASS - .gitignore blocks common restricted data, checkpoint, credential, and local-environment file types.
+
+Note: docs/PUBLIC_RELEASE_CHECKLIST.md contains the words "Planet API keys" only as a warning telling the author not to commit such credentials; it contains no credential value.

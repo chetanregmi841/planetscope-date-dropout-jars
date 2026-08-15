@@ -1,0 +1,16 @@
+{
+  "package_created": "2026-08-15",
+  "basis": "MANUSCRIPT_EVIDENCE_BUNDLE.txt and nonrestricted aggregate outputs supplied in the conversation",
+  "restricted_data_included": false,
+  "credentials_included": false,
+  "local_project_paths_included": false,
+  "known_unrecovered_training_details": [
+    "optimizer",
+    "learning_rate",
+    "batch_size",
+    "loss_function",
+    "random_seeds",
+    "activation_functions",
+    "sequence_pooling"
+  ]
+}

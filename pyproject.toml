@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "planetscope-availability"
+version = "0.1.0"
+description = "Sanitized publication companion for PlanetScope shared acquisition-date dropout evaluation"
+requires-python = ">=3.12"
+dependencies = ["numpy", "pandas", "matplotlib", "pyarrow"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

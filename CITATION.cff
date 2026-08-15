@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "PlanetScope availability-aware shared acquisition-date dropout publication companion"
+type: software
+authors:
+  - family-names: "Regmi"
+    given-names: "Chetan"
+version: 0.1.0
+date-released: 2026-08-15
+repository-code: "ADD_GITHUB_REPOSITORY_URL_AFTER_CREATION"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Regmi"
+      given-names: "Chetan"
+  title: "Shared acquisition-date dropout improves external PlanetScope corn yield-anomaly prediction under variable image availability"
+  journal: "Journal of Applied Remote Sensing"
+  year: 2026
+  notes: "Manuscript submitted; add DOI after publication."
